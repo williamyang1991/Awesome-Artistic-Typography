@@ -139,7 +139,7 @@ Welcome to Awesome-Artistic-Typography! This is a comprehensive list of artistic
 
 | Title | Method | Feature | Code | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| [Dynamic Texture Transfer using PatchMatch and Transformers](https://arxiv.org/abs/2402.00606)|patch & transformer-based| ong-distance dependency modeling | - | Feb, 2024 |
+| [Dynamic Texture Transfer using PatchMatch and Transformers](https://arxiv.org/abs/2402.00606)|patch & transformer-based| long-distance dependency modeling | - | Feb, 2024 |
 | [DynTypo: Example-based Dynamic Text Effects Transfer](https://openaccess.thecvf.com/content_CVPR_2019/html/Men_DynTypo_Example-Based_Dynamic_Text_Effects_Transfer_CVPR_2019_paper.html)| patch-based | global NNF search across frames | [code](https://github.com/menyifang/DynTypo) | CVPR, 2019 |
 
 ### Arbitrary dynamic style transfer on text
