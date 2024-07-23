@@ -26,7 +26,7 @@ Welcome to Awesome-Artistic-Typography! This is a comprehensive list of artistic
 
 
 <p align="center">
-(Source: <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Controllable_Artistic_Text_Style_Transfer_via_Shape-Matching_GAN_ICCV_2019_paper.html">Shape-Matching GAN</a>, <a href="https://dl.acm.org/doi/abs/10.1145/2897824.2925887">Zou et al.</a>, <a href="Anything to glyph: Artistic font synthesis via text-to-image diffusion model">Anything to Glyph</a>, <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Typography_With_Decor_Intelligent_Text_Style_Transfer_CVPR_2019_paper.html"> Typography With Decor </a>,
+(Source: <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Controllable_Artistic_Text_Style_Transfer_via_Shape-Matching_GAN_ICCV_2019_paper.html">Shape-Matching GAN</a>, <a href="https://dl.acm.org/doi/abs/10.1145/2897824.2925887">Zou et al.</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3610548.3618208">Anything to Glyph</a>, <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Typography_With_Decor_Intelligent_Text_Style_Transfer_CVPR_2019_paper.html"> Typography With Decor </a>,
 <a href="https://arxiv.org/abs/2310.18332">Wordart Designer</a> and <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanveer_DS-Fusion_Artistic_Typography_via_Discriminated_and_Stylized_Diffusion_ICCV_2023_paper.html">DS-Fusion</a>)
 </p>
 
