@@ -1,27 +1,27 @@
 
 
-# [Awesome Artistic Typography]() [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# [Awesome Artistic Typography](http://arxiv.org/abs/2407.14774) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 
 
 
-Welcome to Awesome-Artistic-Typography! This is a comprehensive list of artistic typography, including methods and datasets introduced for text stylization and semantic typography tasks. Further information are available in paper: [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation.]()
+Welcome to Awesome-Artistic-Typography! This is a comprehensive list of artistic typography, including methods and datasets introduced for text stylization and semantic typography tasks. Further information are available in paper: [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation.](http://arxiv.org/abs/2407.14774)
 
 
 
 
 
 <p align="center">
-<img src="asset/cover/controllable.png" width="240px"/>  
-<img src="asset/cover/compact.png" width="240px"/>  
+<img src="asset/cover/controllable.png" width="240px" height='160px'/>  
+<img src="asset/cover/compact.png" width="240px" height='160px'/>  
 </p>
 
 
 <p align="center">
-<img src="asset/cover/anything to glyph.png" width="120px"/>
-<img src="asset/cover/with decor.png" width="120px"/>
-<img src="asset/cover/wordart-designer.png" width="120px"/>
-<img src="asset/cover/ds-fusion.png" width="120px"/>
+<img src="asset/cover/anything to glyph.png" width="120px" height='120px'/>
+<img src="asset/cover/with decor.png" width="120px" height='120px'/>
+<img src="asset/cover/wordart-designer.png" width="120px" height='120px'/>
+<img src="asset/cover/ds-fusion.png" width="120px" height='120px'/>
 </p>
 
 
@@ -37,8 +37,6 @@ Welcome to Awesome-Artistic-Typography! This is a comprehensive list of artistic
 
 
 
-- [Awesome Artistic Typography ](#awesome-artistic-typography-)
-  - [Table of Contents](#table-of-contents)
 - [Artistic Text Stylization](#artistic-text-stylization)
   - [Static Artistic Text Stylization](#static-artistic-text-stylization)
     - [Text effect transfer](#text-effect-transfer)
